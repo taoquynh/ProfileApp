@@ -4,10 +4,10 @@
 - Demo:
 
 <p align="center">
-<img src="Demos/Login.png"  style="width: 200px; margin-right: 20px"/>
-<img src="Demos/Register.png"  style="width: 200px;"/>
+<img src="Demos/Login.png"  width=200/>
+<img src="Demos/Register.png"  width=200/>
 <br />
-<img src="Demos/Home.png"  style="width: 200px; margin-right: 20px"/>
-<img src="Demos/Edit.png"  style="width: 200px;"/>
+<img src="Demos/Home.png"  width=200/>
+<img src="Demos/Edit.png"  width=200/>
 </p>
 
